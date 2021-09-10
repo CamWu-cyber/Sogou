@@ -28,3 +28,4 @@ tf.app.run()的作用：先处理flag解析，然后执行main函数
 
 ## 三个重要的模块
 
+![image](https://github.com/CamWu-cyber/Sogou/blob/main/bert/images/key%20parts.png)
