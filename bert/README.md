@@ -21,7 +21,7 @@ sh run.sh
 
 最后在日志里会有验证的结果，同时在data/model_output/eval_results.txt里面也会有相同的结果。
 
-!(image)[https://github.com/CamWu-cyber/Sogou/blob/main/bert/images/eval_re.png]
+![image](https://github.com/CamWu-cyber/Sogou/blob/main/bert/images/eval_re.png)
 
 #### 测试
 sh test.sh
