@@ -6,7 +6,7 @@
     
     3.增加了precision, recall, f1在验证结果中；
 
-目前只修改了run_classifier.py。
+**目前只修改了run_classifier.py**
 
 具体的训练过程细节，跟Google bert上面是一样的，这里就不写了。
 
