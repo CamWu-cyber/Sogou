@@ -33,3 +33,11 @@ sh test.sh
 每一行代表一个样本，每一列代表每个label对应的概率，如果1的概率大于0的概率，说明是匹配的。
 
 ![image](https://github.com/CamWu-cyber/Sogou/blob/main/bert/images/test.png)
+
+#### References
+
+入门教程：
+https://ganjinzero.github.io/2019/02/28/%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B%EF%BC%9A%E4%BD%BF%E7%94%A8Bert%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/
+
+官方文档：
+https://github.com/google-research/bert
