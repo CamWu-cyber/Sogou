@@ -37,7 +37,9 @@ sh test.sh
 #### References
 
 入门教程：
+
 https://ganjinzero.github.io/2019/02/28/%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B%EF%BC%9A%E4%BD%BF%E7%94%A8Bert%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/
 
 官方文档：
+
 https://github.com/google-research/bert
