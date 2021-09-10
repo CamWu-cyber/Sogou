@@ -29,3 +29,5 @@ sh test.sh
 测试结果会在data/model_output/test_results.tsv.
 
 每一行代表一个样本，每一列代表每个label对应的概率，如果1的概率大于0的概率，说明是匹配的。
+
+![image](https://github.com/CamWu-cyber/Sogou/blob/main/bert/images/test.png)
