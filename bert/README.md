@@ -12,11 +12,11 @@
 本项目是基于bert的句子对匹配项目，label有两个0和1，0表示不匹配，1表示匹配。
 
 #### 数据
-训练、验证、测试数据均在data/datasets.
+训练、验证、测试数据均在data/datasets中
 
 原始数据格式是txt，但是bert的格式要求是tsv，txt转tsv的代码网上查查就有了。日后要使用模型的话，都需要这么转换一下格式。
 
-#### 训练
+#### 训练&验证
 sh run.sh
 
 最后在日志里会有验证的结果，同时在data/model_output/eval_results.txt里面也会有相同的结果。
